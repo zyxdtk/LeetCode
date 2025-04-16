@@ -40,7 +40,7 @@
 
 
 ## 脚本
-
+统计项目中py文件个数
 ```
 find /Users/ly/Workspace/gitee/LeetCode -type f -name "*.py" | wc -l
 ```
