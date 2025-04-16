@@ -37,3 +37,10 @@
 - https://github.com/doocs/leetcode
 - https://github.com/youngyangyang04/leetcode-master
 - [LeetCode必刷100题：一份来自面试官的算法地图（题解持续更新中）](https://mp.weixin.qq.com/s?__biz=MzkzMzIwNTQ2Ng==&mid=2247483953&idx=2&sn=20e327241a246fa1c26076dba4c4f560&chksm=c39feb3518926f8839119c63e3e5ad8e359ff067dd30dbefdd362815f74a71b6ae80ad5eb1b3#rd) 进度  100/100
+
+
+## 脚本
+
+```
+find /Users/ly/Workspace/gitee/LeetCode -type f -name "*.py" | wc -l
+```
