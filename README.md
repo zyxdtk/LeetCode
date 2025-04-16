@@ -1,6 +1,10 @@
 # python编程题
 记录和管理自己的python编程题
 
+## 命名规范
+
+文件名：`[leedcode题目号]_[easy、medium、hard首字母]_[题目标题英文].py`
+
 ## 目录
 ### 数据结构类
 - [数组](/problems/data_structure/array/)
@@ -32,4 +36,4 @@
 - https://github.com/TheAlgorithms/Python/tree/master
 - https://github.com/doocs/leetcode
 - https://github.com/youngyangyang04/leetcode-master
-- [LeetCode必刷100题：一份来自面试官的算法地图（题解持续更新中）](https://mp.weixin.qq.com/s?__biz=MzkzMzIwNTQ2Ng==&mid=2247483953&idx=2&sn=20e327241a246fa1c26076dba4c4f560&chksm=c39feb3518926f8839119c63e3e5ad8e359ff067dd30dbefdd362815f74a71b6ae80ad5eb1b3#rd) 进度  4/100
+- [LeetCode必刷100题：一份来自面试官的算法地图（题解持续更新中）](https://mp.weixin.qq.com/s?__biz=MzkzMzIwNTQ2Ng==&mid=2247483953&idx=2&sn=20e327241a246fa1c26076dba4c4f560&chksm=c39feb3518926f8839119c63e3e5ad8e359ff067dd30dbefdd362815f74a71b6ae80ad5eb1b3#rd) 进度  100/100
